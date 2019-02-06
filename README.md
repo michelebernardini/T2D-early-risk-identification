@@ -1,4 +1,4 @@
-# T2D early risk
+# Identification of Early Risk Conditions for Type 2 Diabetes from Electronic Health Records using a Machine Learning Approach
 submitted to Journal of Biomedical Informatics by M. Bernardini, M. Morettini, L. Romeo, S. Moccia, E. Frontoni and L. Burattini 
 
 The aim of this work was to propose a high-interpretable ensemble Regression Forest model combined with data imputation strategies, able to extract potentially unknown patterns from EHR data for providing early-preventive knowledge of glucose tolerance deterioration representing risk condition for type 2 diabetes.
