@@ -13,11 +13,10 @@ We tested the proposed Regression Forest model in three different experimental p
 
 Each experimental procedure consists of five different experiments:
 
-a) Baseline
-b) Surrogate
-c) Extra values imputation
-d) Median imputation
-e) KNN imputation
+a) Baseline;
+b) Surrogate tree-based;
+c) Extra values imputation;
+d) Median imputation;
+e) KNN imputation;
 
 The matlab code to replicate all the experiments is provided by the authors.
-
