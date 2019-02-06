@@ -1,9 +1,9 @@
-# Identification of Early Risk Conditions for Type 2 Diabetes from Electronic Health Records using a Machine Learning Approach
+# Supporting General Practitioner for Identification of Type 2 Diabetes Early Risk Conditions using a Machine Learning Approach on Electronic Health Records
 submitted to Journal of Biomedical Informatics by M. Bernardini, M. Morettini, L. Romeo, S. Moccia, E. Frontoni and L. Burattini 
 
 The aim of this work was to propose a high-interpretable ensemble Regression Forest model combined with data imputation strategies, able to extract potentially unknown patterns from EHR data for providing early-preventive knowledge of glucose tolerance deterioration representing risk condition for type 2 diabetes.
 
-We tested the reliability of the proposed approach on the Italian Federation of General Practitioners dataset, named FIMMG_obs dataset, publicly available at the following link: http://vrai.dii.univpm.it/content/fimmg-dataset
+We tested the reliability of the proposed approach on the Italian Federation of General Practitioners dataset, named FIMMG_obs dataset, publicly available at the following link: http://vrai.dii.univpm.it/content/fimmgobs-dataset
 
 We tested the proposed Regression Forest model in three different experimental procedures:
 
