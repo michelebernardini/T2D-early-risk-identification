@@ -12,6 +12,7 @@ We tested the proposed Regression Forest model in three different experimental p
 3. Temporal risk factor prediction with leave last records out (LLRO)
 
 Each experimental procedure consists of five different experiments:
+
 a) Baseline Tree-based
 b) Surrogate Tree-based
 c) Extra values imputation
