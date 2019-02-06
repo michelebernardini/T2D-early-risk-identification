@@ -11,5 +11,12 @@ We tested the proposed Regression Forest model in three different experimental p
 2. Temporal risk factor prediction with 10-fold cross validation over subjects (CVOS-10)
 3. Temporal risk factor prediction with leave last records out (LLRO)
 
-The matlab code to replicate all the experimental procedures is provided by the authors.
+Each experimental procedure consists of five different experiments:
+a) Baseline Tree-based
+b) Surrogate Tree-based
+c) Extra values imputation
+d) Median imputation
+e) KNN imputation
+
+The matlab code to replicate all the experiments is provided by the authors.
 
