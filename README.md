@@ -13,8 +13,8 @@ We tested the proposed Regression Forest model in three different experimental p
 
 Each experimental procedure consists of five different experiments:
 
-a) Baseline Tree-based
-b) Surrogate Tree-based
+a) Baseline
+b) Surrogate
 c) Extra values imputation
 d) Median imputation
 e) KNN imputation
