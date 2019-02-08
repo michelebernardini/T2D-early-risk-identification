@@ -1,4 +1,4 @@
-# Supporting General Practitioner for Identification of Type 2 Diabetes Early Risk Conditions using a Machine Learning Approach on Electronic Health Records
+# Supporting the Identification of Type 2 Diabetes Early-Risk Conditions using a Machine Learning Approach on Electronic Health Records
 submitted to Journal of Biomedical Informatics by M. Bernardini, M. Morettini, L. Romeo, S. Moccia, E. Frontoni and L. Burattini 
 
 The aim of this work was to propose a high-interpretable ensemble Regression Forest model combined with data imputation strategies, able to extract potentially unknown patterns from EHR data for providing early-preventive knowledge of glucose tolerance deterioration representing risk condition for type 2 diabetes.
