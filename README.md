@@ -7,9 +7,9 @@ We tested the reliability of the proposed approach, named Ty-Ger, on the Italian
 
 We tested the TyG-er appraoch in 3 different experimental procedures:
 
-1. 10-fold cross validation (CV-10);
-2. 10-fold cross validation over subjects (CVOS-10);
-3. Leave Last Records Out (LLRO).
+1) Tenfold cross validation (CV-10);
+2) Tenfold cross validation over subjects (CVOS-10);
+3) Leave Last Records Out (LLRO).
 
 Each experimental procedure consists of 4 different experiments:
 
