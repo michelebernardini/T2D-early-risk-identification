@@ -1,22 +1,21 @@
-# TyG-er: an Ensemble Regression Forest Approach for Identification of Type 2 Diabetes Risk Conditions from Electronic Health Records
-submitted to Journal of Biomedical Informatics by M. Bernardini, M. Morettini, L. Romeo, E. Frontoni and L. Burattini 
+# TyG-er: an Ensemble Regression Forest Approach for Identification of Clinical Factors related to Insulin Resistance Condition using Electronic Health Records
+submitted to Computer Methods and Programs in Biomedicine by M. Bernardini, M. Morettini, L. Romeo, E. Frontoni and L. Burattini 
 
-The aim of this work was to propose a high-interpretable ensemble Regression Forest model combined with data imputation strategies, able to extract potentially unknown patterns from EHR data for providing early-preventive knowledge of glucose tolerance deterioration representing risk condition for type 2 diabetes.
+The aim of this work was to propose a high-interpretable ensemble Regression Forest model combined with data imputation strategies, able to extract clinical factors from EHR data for providing early-preventive knowledge of glucose tolerance deterioration representing risk condition for type 2 diabetes.
 
 We tested the reliability of the proposed approach, named Ty-Ger, on the Italian Federation of General Practitioners dataset, named FIMMG_obs dataset, publicly available at the following link: http://vrai.dii.univpm.it/content/fimmgobs-dataset
 
-We tested the TyG-er appraoch in three different experimental procedures:
+We tested the TyG-er appraoch in 3 different experimental procedures:
 
-1. Time-invariant risk factor prediction with 10-fold cross validation (CV-10)
-2. Temporal risk factor prediction with 10-fold cross validation over subjects (CVOS-10)
-3. Temporal risk factor prediction with leave last records out (LLRO)
+1. 10-fold cross validation (CV-10);
+2. 10-fold cross validation over subjects (CVOS-10);
+3. Leave Last Records Out (LLRO).
 
-Each experimental procedure consists of five different experiments:
+Each experimental procedure consists of 4 different experiments:
 
 a) Baseline;
-b) Surrogate tree-based;
-c) Extra values imputation;
-d) Median imputation;
-e) KNN imputation;
+b) Extra values imputation;
+c) Median imputation;
+d) KNN imputation.
 
-The matlab code to replicate all the experiments is provided by the authors.
+Matlab code to replicate all the experiments is provided by the authors.
