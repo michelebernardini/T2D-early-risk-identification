@@ -3,7 +3,7 @@ submitted to Computer Methods and Programs in Biomedicine by M. Bernardini, M. M
 
 The aim of this work was to propose a high-interpretable ensemble Regression Forest model combined with data imputation strategies, able to extract clinical factors from EHR data for providing early-preventive knowledge of glucose tolerance deterioration representing risk condition for type 2 diabetes.
 
-We tested the reliability of the proposed approach, named Ty-Ger, on the Italian Federation of General Practitioners dataset, named FIMMG_obs dataset, publicly available at the following link: http://vrai.dii.univpm.it/content/fimmgobs-dataset
+We tested the reliability of the proposed approach, named TyG-er, on the Italian Federation of General Practitioners dataset, named FIMMG_obs dataset, publicly available at the following link: http://vrai.dii.univpm.it/content/fimmgobs-dataset
 
 We tested the TyG-er appraoch in 3 different experimental procedures:
 
