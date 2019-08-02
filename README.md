@@ -1,5 +1,5 @@
 # TyG-er: an Ensemble Regression Forest Approach for Identification of Clinical Factors related to Insulin Resistance Condition using Electronic Health Records
-published to Computers in Biology and Medicine by M. Bernardini, M. Morettini, L. Romeo, E. Frontoni and L. Burattini 
+published in Computers in Biology and Medicine by M. Bernardini, M. Morettini, L. Romeo, E. Frontoni and L. Burattini 
 
 The aim of this work was to propose a high-interpretable ensemble Regression Forest model combined with data imputation strategies, able to extract clinical factors from EHR data for providing early-preventive knowledge of glucose tolerance deterioration representing risk condition for type 2 diabetes.
 
